@@ -1,6 +1,6 @@
 body {
 margin: 0;
-font-family: "Trebuchet MS", Helvetica, sans-serif;
+font-family: Arial, sans-serif;
 padding-right: 400px;
 }
 
@@ -43,4 +43,13 @@ a:hover {
 a:visited {
 text-decoration: none;
 color: black;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding-top: 0px
 }
