@@ -1,7 +1,7 @@
 body {
 margin: 0;
 font-family: Arial, sans-serif;
-padding-right: 400px;
+padding-right: 120px;
 }
 
 p {
@@ -13,7 +13,7 @@ ul {
   list-style-type: none;
   margin: 5;
   padding: 1;
-  width: 15%;
+  width: 180px;
 
   height: 100%; /* Full height */
   position: fixed; /* Make it stick, even on scroll */
