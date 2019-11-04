@@ -5,10 +5,23 @@ padding-right: 120px;
 }
 
 p {
-font-size: 110%;
+font-size: 100%;
 }
 
+#main {
+  margin-left:25%;
+  padding:1px 16px;
+  height:1000px;
+}
 
+#leftsidebar {
+  float: none;
+  width: auto;
+}
+@media screen and (min-width: 480px) {
+  #leftsidebar {width: 200px; float: left;}
+  #main {margin-left: 216px;}
+}
 ul {
   list-style-type: none;
   margin: 5;
