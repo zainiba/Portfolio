@@ -12,6 +12,7 @@ font-size: 100%;
   margin-left:25%;
   padding-top:1px;
   padding-left:16px;
+  padding-right: 120px;
   height:1000px;
 }
 
@@ -19,10 +20,7 @@ font-size: 100%;
   float: none;
   width: auto;
 }
-@media screen and (min-width: 480px) {
-  #leftsidebar {width: 200px; float: left;}
-  #main {margin-left: 216px;}
-}
+
 ul {
   list-style-type: none;
   margin: 5;
