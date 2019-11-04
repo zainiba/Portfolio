@@ -10,7 +10,8 @@ font-size: 100%;
 
 #main {
   margin-left:25%;
-  padding:1px 16px;
+  padding-top:1px;
+  padding-left:16px;
   height:1000px;
 }
 
